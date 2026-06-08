@@ -1,0 +1,14 @@
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\bin\Debug\net10.0\HW-T01-01-06-2026-first-teacher.exe
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\bin\Debug\net10.0\HW-T01-01-06-2026-first-teacher.deps.json
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\bin\Debug\net10.0\HW-T01-01-06-2026-first-teacher.runtimeconfig.json
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\bin\Debug\net10.0\HW-T01-01-06-2026-first-teacher.dll
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\bin\Debug\net10.0\HW-T01-01-06-2026-first-teacher.pdb
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.AssemblyInfoInputs.cache
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.AssemblyInfo.cs
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.csproj.CoreCompileInputs.cache
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.dll
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\refint\HW-T01-01-06-2026-first-teacher.dll
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.pdb
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\HW-T01-01-06-2026-first-teacher.genruntimeconfig.cache
+C:\Users\klike\source\repos\HW-T01-01-06-2026-first-teacher\HW-T01-01-06-2026-first-teacher\obj\Debug\net10.0\ref\HW-T01-01-06-2026-first-teacher.dll
